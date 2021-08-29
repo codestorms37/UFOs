@@ -4,6 +4,8 @@
 
 - The purpose of this project is to deliver a web page to facilitate the presentation and filtering of a database of UFOs sightenings in USA and Canada
 
+![Web Page](./static/images/web_page.png)
+
 ## Results
 
 - The original input for was based on text input, but it was replaced with comboboxes.
